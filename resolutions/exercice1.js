@@ -1,8 +1,8 @@
 let password="marcellin";
 
-let nombre=prompt("Entrer le mot de passe");
+let nom=prompt("Entrer le mot de passe");
 
-if (password==nombre) {
+if (password==nom) {
     console.log("Bienvenue");
 }else{
     console.log("Erreur de mot de passe");
